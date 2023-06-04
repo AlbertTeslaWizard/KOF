@@ -1,2 +1,2 @@
 # KOF
-This a simple mode of king of fighters.
+This is a simple mode of the game of king of fighters.
